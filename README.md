@@ -25,6 +25,6 @@ Determine whether federal election victories by Democrats correlate to an increa
 #### Jupyter notebook `presidential_elections_and_background_checks.ipynb`:
 * Combined background check data with presidential election data into a single Pandas dataframe.
 * Created derived dataframes for the "red", "blue", and "swing" states.
-* Used matplotlib and scipy.stats to construct regressions and graphs for each set of states (all, "red", "blue", and "swing"):
+* Used Matplotlib, NumPy and SciPy to construct regressions and graphs for each set of states (all, "red", "blue", and "swing"):
     * For all 5 elections, to examine overall correlation between results for Democrats and increases in background checks, and 
-    * For the two elections won nationally by the Democratic candidate, to examine whether the national result is more significant than the state's.
+    * For elections won nationally by the Democratic candidate, to examine whether the national result is more significant than the state's.
