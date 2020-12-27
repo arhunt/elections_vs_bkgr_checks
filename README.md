@@ -10,6 +10,7 @@ Determine whether federal election victories by Democrats (on the state or natio
 * Vince Dinolfo
 
 ### Contents:
+#### [Presentation & Conclusions](https://github.com/arhunt/elections_vs_bkgr_checks/blob/master/presentation_conclusions.pdf)
 #### _Datasets_ folder:
 * Election results by state for 2000 to 2016, for Presidential, House, and Senate.
 * Background checks per year by state - full year data for 2000-2019 and partial data for 2000 and 2020.
