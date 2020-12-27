@@ -2,7 +2,7 @@
 Group Project for University of Minnesota Data Analytics and Visualization (Week 7 of 24)
 
 ### Purpose:
-Determine whether federal election victories by Democrats (on the state or national level) correlate to an increase in background checks for firearms in the following year, and whether trends are more significant in solidly "red", "blue", or in "swing" states.
+Determine whether federal election victories by Democrats correlate to an increase in background checks for firearms in the following year, and whether trends are more significant in solidly "red", "blue", or in "swing" states.
 
 ### Contributors:
 * Wynn Bigham
@@ -25,4 +25,6 @@ Determine whether federal election victories by Democrats (on the state or natio
 #### Jupyter notebook `presidential_elections_and_background_checks.ipynb`:
 * Combined background check data with presidential election data into a single Pandas dataframe.
 * Created derived dataframes for the "red", "blue", and "swing" states.
-* Used matplotlib and scipy.stats to construct regressions and graphs for each set of states (all, "red", "blue", and "swing") for all 5 elections, and another set for the two elections won nationally by the Democratic candidate.
+* Used matplotlib and scipy.stats to construct regressions and graphs for each set of states (all, "red", "blue", and "swing"):
+    * For all 5 elections, to examine overall correlation between results for Democrats and increases in background checks, and 
+    * For the two elections won nationally by the Democratic candidate, to examine whether the national result is more significant than the state's.
