@@ -1,7 +1,7 @@
-## Comparison of changes by state in numbers of background checks in the years following presidential elections.
+## Observing changes in numbers of background checks for firearms in the years following presidential elections.
 Group Project for University of Minnesota Data Analytics and Visualization (Week 7 of 24)
 
-## Purpose:
+### Purpose:
 Determine whether federal election victories by Democrats (on the state or national level) correlate to an increase in background checks for firearms in the following year, and whether trends are more significant in solidly "red", "blue", or in "swing" states.
 
 ### Contributors:
